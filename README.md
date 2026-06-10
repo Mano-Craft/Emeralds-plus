@@ -6,7 +6,7 @@
 The Emerald Upgrade lets you upgrade diamond armor and tools to Emerald Armor and tools with a Emerald block and an Emerald Upgrade.
 You can Dupe The Emerald Upgrade like this:
 
-## License
+# License
 
 This project is licensed under the **Custom License by Mano Craft**.
 
