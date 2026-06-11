@@ -9,8 +9,6 @@ You can Dupe The Emerald Upgrade like this:
 <details>
 <summary>Emerald Upgrade Crafting</summary>
 
-![Emerald Upgrade Crafting](https://cdn.modrinth.com/data/cached_images/3c9c849520a69d178aca0381b1dcd02cac2a8375.png)
-
 </details>
 
  ## Emerald Sword
