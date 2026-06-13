@@ -1,95 +1,177 @@
-  # The Emeralds Plus Mod
-The Emeralds Plus Mod adds lots of new uses for emeralds.It adds the new Emerald Armor, Emerald Tools and the Emerald Upgrade (to get the tools and armor upgraded from diamond armor and tools).The Armor and tools strenght is betwenn diamond and netherite.New Entchantments (which are only for the Emerald Tools and Armor)will be added soon.(The Source Code will be added soon also)
+# 💚 The Emeralds Plus Mod
 
- ##  Emerald Upgrade
+Upgrade your Minecraft experience with powerful new emerald equipment!
 
-The Emerald Upgrade lets you upgrade diamond armor and tools to Emerald Armor and tools with a Emerald block and an Emerald Upgrade.The Emerald Upgrade can be found in a village in a weaponsmith with 50%.
-You can Dupe The Emerald Upgrade like this:
+The **Emeralds Plus Mod** introduces a complete set of **Emerald Armor**, **Emerald Tools**, and the **Emerald Upgrade** smithing template.
+
+Emerald equipment is balanced to be **stronger than Diamond** but **slightly weaker than Netherite**, making it the perfect mid-to-late-game gear.
+
+> ✨ Exclusive enchantments for Emerald equipment are planned for a future update!
+
+---
+
+# ✨ Features
+
+- 💚 Emerald Armor Set
+- ⚔️ Emerald Tool Set
+- 🔨 Emerald Upgrade Smithing Template
+- 🏘️ Village Loot Integration
+- ⚖️ Balanced progression between Diamond and Netherite
+
+---
+
+## Languages
+
+| Version | English | Portuguese | Russian | Frensh | German |
+|------|-------------|------|------|-------------|------|
+| 0.9.1   |  ✅  | ✅ | ✅ | ✅ | ✅ |
+| 0.9.0   |  ✅  | ❌  | ❌ | ❌ | ❌ |
+---
+
+# 🔨 Emerald Upgrade
+
+The **Emerald Upgrade** allows you to upgrade **Diamond Tools** and **Diamond Armor** into their Emerald variants.
+
+### Requirements
+- Diamond Tool or Armor
+- 1 Emerald Block
+- 1 Emerald Upgrade
+
+### How to obtain
+
+- 📦 Found in **Weaponsmith** village chests
+- 🎲 **50% chance** to generate
+
+You can also duplicate the Emerald Upgrade:
 
 <details>
-<summary>Emerald Upgrade Crafting</summary>
+<summary><b>📖 Emerald Upgrade Crafting</b></summary>
 
 ![Emerald Upgrade Crafting](https://cdn.modrinth.com/data/cached_images/bacf91da6fda64b30fc0cbb042602cda32169a2e.png)
+
 ![Emerald Upgrade Crafting 2](https://cdn.modrinth.com/data/cached_images/d497761f2b7e4374a9f48bf530f99af507a4c9f4.png)
+
 </details>
 
- ## Emerald Sword
+---
 
- The Emerald Sword is just like a normal Sword of the strenght betwen diamond and netherite.You  can find it in a village in a weaponsmith with a 3% chance and Craft it like this:
+# ⚔️ Emerald Sword
 
- 
+A stronger alternative to the Diamond Sword while remaining slightly weaker than Netherite.
+
+### Obtain
+- 🏘️ Found in Weaponsmith village chests
+- 🎲 3% chance
+
 <details>
-<summary>Emerald Sword Crafting</summary>
+<summary><b📖 >Crafting Recipe</b></summary>
 
 ![Emerald Sword Crafting](https://cdn.modrinth.com/data/cached_images/e5195e6bf78096101476463b038c242afeec73ba.png)
 
 </details>
 
-## Emerald Axe
+---
 
- The Emerald Axe is just like a normal Axe of the strenght betwen diamond and netherite.You  can find it in a village in a weaponsmith with a 3% chance and Craft it like this:
+# 🪓 Emerald Axe
 
- 
+A powerful axe balanced between Diamond and Netherite.
+
+### Obtain
+- 🏘️ Found in Weaponsmith village chests
+- 🎲 3% chance
+
 <details>
-<summary>Emerald Axe Crafting</summary>
+<summary><b>📖 Crafting Recipe</b></summary>
 
 ![Emerald Axe Crafting](https://cdn.modrinth.com/data/cached_images/1fa006337e2199f537648be1be878476d15e37a2.png)
 
 </details>
 
-## Emerald Pickaxe
+---
 
- The Emerald Pickaxe is just like a normal Pickaxe of the strenght betwen diamond and netherite.You  can find it in a village in a weaponsmith with a 3% chance and Craft it like this:
+# ⛏️ Emerald Pickaxe
 
+Mine faster with an upgraded pickaxe stronger than Diamond.
+
+### Obtain
+- 🏘️ Found in Weaponsmith village chests
+- 🎲 3% chance
 
 <details>
-<summary>Emerald Pickaxe Crafting</summary>
+<summary><b>📖 Crafting Recipe</b></summary>
 
 ![Emerald Pickaxe Crafting](https://cdn.modrinth.com/data/cached_images/cca38e87d57787c799bf8140b8086929a23ad0c2.png)
 
 </details>
 
-## Emerald Shovel
+---
 
- The Emerald Shovel is just like a normal Shovel of the strenght betwen diamond and netherite.You  can craft it like this:
+# 🛠 Emerald Shovel
 
+The Emerald Shovel offers improved durability and mining speed.
 
 <details>
-<summary>Emerald Shovel Crafting</summary>
+<summary><b>📖 Crafting Recipe</b></summary>
 
 ![Emerald Shovel Crafting](https://cdn.modrinth.com/data/cached_images/a4279e83dc2fa8163caeda97f42297893420824d.png)
 
 </details>
 
-## Emerald Hoe
+---
 
- The Emerald Hoe is just like a normal Hoe of the strenght betwen diamond and netherite.You  can craft it like this:
+# 🌾 Emerald Hoe
 
+A durable farming tool made from emeralds.
 
 <details>
-<summary>Emerald Hoe Crafting</summary>
+<summary><b>📖 Crafting Recipe</b></summary>
 
 ![Emerald Hoe Crafting](https://cdn.modrinth.com/data/cached_images/8fc1d76e0efff0f40c176b18b2140f05c3825b52.png)
 
 </details>
 
-## Emerald Armor
+---
 
- The Emerald Armor is just like a normal Armor of the strenght betwen diamond and netherite.You  can craft it like this:
+# 🛡️ Emerald Armor
 
+The complete Emerald Armor set provides protection between Diamond and Netherite.
 
 <details>
-<summary>Emerald Armor Crafting</summary>
+<summary><b>📖 Armor Crafting Recipes</b></summary>
+
+### Helmet
 
 ![Emerald Helmet Crafting](https://cdn.modrinth.com/data/cached_images/030f16155948131e3d1a1886c170db3960bbdc94.png)
 
+### Chestplate
+
 ![Emerald Chestplate Crafting](https://cdn.modrinth.com/data/cached_images/8d8ae5377ddecc5883f6ecf3d93e7eb0d33776b0.png)
 
-![Emerald Leggins Crafting](https://cdn.modrinth.com/data/cached_images/101f6aba3b2765a6eec103009060c075c96784b7.png)
+### Leggings
+
+![Emerald Leggings Crafting](https://cdn.modrinth.com/data/cached_images/101f6aba3b2765a6eec103009060c075c96784b7.png)
+
+### Boots
 
 ![Emerald Boots Crafting](https://cdn.modrinth.com/data/cached_images/9ca8d45393eec995b699b84324804a721a5b4cb3.png)
 
 </details>
+
+---
+
+# 🚀 More Coming Soon
+
+Planned features include:
+<details>
+<summary><b>🚀 Next Features</b></summary>
+
+- ✨ Exclusive Emerald Enchantments
+- 🌍 Support for more languages
+- 🛡️ A brand new Emerald Shield
+
+</details>
+
+  
 
 # License
 
